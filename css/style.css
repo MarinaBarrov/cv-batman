@@ -35,11 +35,13 @@ dl dt.years-detail {
     text-align: center;
 }
 
-.margine-iconos {
-    margin-right: 5px;
-}
 footer {
     text-align: center;
     background-color: #005677;
     color: #fff;
+    padding: 9px;
+}
+
+.margin-footer {
+    margin: 0 13px 0 13px;
 }
