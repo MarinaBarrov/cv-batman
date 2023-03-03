@@ -12,6 +12,15 @@ h1 {
     text-align: center;
 }
 
+.title {
+    padding: 15px;
+}
+
+.section-subtitle{
+    padding: 7px;
+    font-size: 20px;
+}
+
 h2 {
     background-color: #C4C4C4;
     font-family: 'Times New Roman', Times, serif;
